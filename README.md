@@ -19,8 +19,7 @@ Realiza una aplicación en Python que permita realizar la gestión de una biblio
 
 Utiliza POO para realizar el proyecto. Utiliza una estructura similar a esta:
 
-<code>
-Biblioteca/
+<kbd>Biblioteca/</kbd>
 
     biblioteca/
 
@@ -35,7 +34,6 @@ Biblioteca/
     requirements.txt
 
     main.py
-</code>
 
 Opcionalmente:
 
